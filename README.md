@@ -3,3 +3,24 @@
 - R = Read
 - U = Update
 - D = Delete
+# How to install and run
+## Clone this repository
+```
+git clone https://github.com/shahedmohammadhridoy/django-crud.git
+```
+## Create virtual environment
+```
+python -m venv venv
+```
+## Install requirements
+```
+pip install -r requirements.txt
+```
+## Run Server
+```
+python manage.py runserver
+```
+## URL
+```
+http://127.0.0.1:8000/members/
+```
