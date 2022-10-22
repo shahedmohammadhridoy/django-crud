@@ -1,5 +1,5 @@
 # django CRUD
-C = Create
-R = Read
-U = Update
-D = Delete
+- C = Create
+- R = Read
+- U = Update
+- D = Delete
