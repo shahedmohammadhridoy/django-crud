@@ -12,7 +12,8 @@
         <label>Last Name:</label>
         <input name="last" class="form-control">
     </div>
-    <input type="submit" value="Submit" class="btn btn-primary">
+    <input type="submit" value="Add Member" class="btn btn-primary">
+    <a href="{% url 'index' %}">Members</a>
 </form>
-<p><a href="{% url 'index' %}" class="btn btn-default">Members</a></p>
+
 {% endblock %}
